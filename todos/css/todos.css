@@ -1,0 +1,40 @@
+* {
+  background-color: #3A3335;
+  font-family: Tahoma;
+  color: #FDF0D5;
+  max-width: 800px;
+  text-align: center;}
+
+header {
+  font-size: 3em;
+  font-weight: bold;
+  text-transform: uppercase;}
+
+ul {
+  list-style-position: inside;}
+
+a {
+  color: #C6D8D3;
+  text-decoration: none;}
+
+a:hover {
+  color:#FF3A20;
+  text-decoration: none;}
+
+h1 {
+  font-family: Garamond;
+  color: #FF3A20;}
+
+#remove p {
+    color: #FF3A20;
+}
+
+}
+button {
+  background-color: #C6D8D3;
+  color: #3A3335;
+}
+
+.complete {
+  display: none;
+}
